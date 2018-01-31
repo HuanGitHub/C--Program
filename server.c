@@ -10,8 +10,8 @@
 void *pthread_write(void *ad);
 void *pthread_read(void *fd);
 struct IP_ID{
-		int ID;
-		char *IP;		
+	int ID;
+	char *IP;		
 
 };
 int main()
